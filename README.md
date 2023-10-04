@@ -1,4 +1,4 @@
-# Knock Subdomain Scan v6.1.0
+# Knock Recursive Subdomain Scan v6.1.1
 
 Knockpy is a portable and modular python3 tool designed to quickly enumerate subdomains on a target domain through **passive reconnaissance** and **dictionary scan**.
 
